@@ -1,2 +1,5 @@
-# MSCW
-A repository to hold assets and a manual for the ongoing Math and Stats Careers Workshop (MSCW) at McMaster University
+# Math and Stats Careers Workshop (MSCW)
+This is a repository to hold assets and the (evolving) manual for the ongoing Math and Stats Careers Workshop (MSCW) at McMaster University
+
+# Mission Statement 
+This workshop aims to prepare and support postdocs and grad students in math and stats for careers in academia and industry through lectures, workshops, and events focused on the career planning, job search, application, and interview processes.
