@@ -1,6 +1,7 @@
 # Thursday October 1st 2026
 ## Careers Workshop Planning
 ## Tomorrow - Setting the scene
+
 -Mathjobs
 - Materials list 
 - Broad strokes for each
